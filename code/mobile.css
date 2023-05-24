@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+  .center {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .header_input {
+    display: none;
+  }
+  .nav {
+    display: flex;
+    display: none;
+  }
+}/*# sourceMappingURL=mobile.css.map */
